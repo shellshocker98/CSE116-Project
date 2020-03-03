@@ -1,0 +1,6 @@
+size.txt file:
+
+The size of the fractal has been changed from 512x512 to 2048x2048. 
+To check this, simply check the Main and UserInterface Classes. In UI 
+we changed the dimension variable to reflect this. In Main we also
+changed the size of the array when we create it.

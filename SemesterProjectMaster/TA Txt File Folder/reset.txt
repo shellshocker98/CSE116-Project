@@ -1,0 +1,7 @@
+reset.txt file:
+
+To reset the zoom simply click on the Reset Zoom button
+located at the end of the menu bar at the top of the gui.
+This will reset the fractal to its original state before
+zooming. Another way to reset it is to choose a fractal
+from the fractal drop down menu.

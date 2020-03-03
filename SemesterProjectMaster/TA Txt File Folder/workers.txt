@@ -1,0 +1,8 @@
+workers.txt file:
+
+To change the number of threads and therefore workers, simply 
+click the "Choose new number of Threads" drop down in the
+constants menu. This will change the variable 
+"threads" in the UI class which in turn changes the size of
+the ThreadWorker array and number of ThreadWorkers when 
+the updateFractal method is called.

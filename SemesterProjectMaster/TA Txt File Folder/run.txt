@@ -1,0 +1,5 @@
+run.txt file:
+
+Hover over gui.UserInterface and click run as Java Application.
+This will start the gui and present you with 4 menu bars, Exit,Fractal,
+Color,and Constants.

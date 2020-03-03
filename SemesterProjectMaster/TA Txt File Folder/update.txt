@@ -1,0 +1,7 @@
+update.txt file:
+
+After running our GUI, the last button on the menu bar labeled 'Constants' is
+where the user can change the escape time or escape distance 
+used & also change the color model used based on the color spectrum.
+Upon an invalid entry, an error message will then be 
+displayed within the program.
